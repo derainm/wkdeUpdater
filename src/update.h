@@ -1,0 +1,2 @@
+void updatemod();
+#pragma once
